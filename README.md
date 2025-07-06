@@ -1,0 +1,2 @@
+# LPT
+Python learning journey.
